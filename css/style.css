@@ -3,12 +3,12 @@ body {
 
   text-align: center;
   font-family: "Merriweather", serif;
+  background-color: rgb(216, 243, 243);
 }
 
 .info-container {
   padding-top: 80px;
   position: relative;
-  background-color: #eaf6f6;
 }
 .middle-container {
 }
